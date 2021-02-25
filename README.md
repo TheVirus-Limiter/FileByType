@@ -1,4 +1,4 @@
-6 B, here's my program that will sort out all the files in your computer. Here are steps to download and use.
+Here's my program that will sort out all the files in your computer. Here are steps to download and use.
  
 
 1️⃣https://github.com/TheVirus-Limiter/FileByType/archive/main.zip ← Go to this link
@@ -15,18 +15,19 @@
 
 4️⃣ It should open file explorer and show something like this. (see image)
 
- 
+ [Image1](MicrosoftTeams-image.png)
 
 5️⃣ Click on extract all
  
 6️⃣ Now you should see something like this (see image)
 
- 
+ [Image2](MicrosoftTeams-image (2).png)
 
 7️⃣ Click on the folder. It should show you something like this (see image)
 
 
- 
+  [Image3](MicrosoftTeams-image (3).png)
+
 
 8️⃣ Click on the "Copy" button. Now navigate to your downloads folder/ the folder you want sorted.
  
